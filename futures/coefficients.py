@@ -3,7 +3,6 @@
 import numpy as np
 
 from dataclasses import dataclass
-from dotenv import load_dotenv
 from binance.client import Client
 from datetime import datetime, timedelta
 
