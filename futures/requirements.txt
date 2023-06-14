@@ -1,0 +1,5 @@
+binance_connector==3.1.0
+numpy==1.24.3
+python-dotenv==1.0.0
+python_binance==1.0.17
+scikit_learn==1.2.2
