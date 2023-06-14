@@ -10,8 +10,6 @@ from datetime import datetime, timedelta
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 
-load_dotenv()
-
 
 class APIBinance:
     def __init__(self, api_key, api_secret):
